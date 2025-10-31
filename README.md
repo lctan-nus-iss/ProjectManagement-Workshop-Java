@@ -1,6 +1,6 @@
 ***A Project Management Application design is shown below***
 
-<img width="682" height="669" alt="image" src="https://github.com/user-attachments/assets/18805813-821c-45b0-b6f7-591524f8d455" />
+<img width="682" height="669" alt="image" src="./refactor2.png" />
 
 ***Project:*** 
 
